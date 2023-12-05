@@ -7,5 +7,7 @@
 ?>
 
 <footer>Footer</footer>
+
+<?php wp-footer(); ?>
 </body>
 </html>
